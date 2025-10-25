@@ -1,16 +1,16 @@
 {
-  "TRAIN_NO": "13185",
+  "TRAIN_NO": "20933",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAVEL_DATE": "28/10/2025",
+  "SOURCE_STATION": "UDN",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
+  "DESTINATION_STATION": "DDU",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
+      "NAME": "Satish Kumar",
       "AGE": 26,
       "GENDER": "Male",
       "SEAT": "No Preference",
